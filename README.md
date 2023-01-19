@@ -1,10 +1,10 @@
 # Tezos-Contracts
  Here we have attached the base structure of smart contracts
-    #Insurances
-    #Realestate token
-    #NFT transfer
-    #Minting semi fungible tokens
-    #Minting Non-fungible tokens
+ 1.Insurances
+ 2.Realestate token
+ 3.NFT transfer
+ 4.Minting semi fungible tokens
+ 5.Minting Non-fungible tokens
    
    we also Deployed few Contracts in Tezos blockchain using smartpy IDE
          CONTRACT ADDRESS(SFT) : KT1ETWo6472CoQh1Z2PK5dRLRF5NTb7US9kg
