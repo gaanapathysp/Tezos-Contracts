@@ -1,5 +1,5 @@
 # Tezos-Contracts
- Here we have attached the base structure of smart contracts
+ ##Here we have attached the base structure of smart contracts
  1.Insurances
  2.Realestate token
  3.NFT transfer
